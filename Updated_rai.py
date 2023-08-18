@@ -851,7 +851,7 @@ async def autorole(ctx):
 
 #_______________________________________________________________________________________________________________________________
                  
-TOKEN = "MTExMjA2NDE3NjE3MzYxMzIyNg.GJ6FPK.xachqjwBpbEs35l7NjQZkJRwBVz78AmhEGI_Z0"
+TOKEN = "Your Token of the bot"
 
 Raiden.run(TOKEN, log_handler=handler, log_level=logging.DEBUG)
     
